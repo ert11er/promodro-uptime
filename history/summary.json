@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 55,
-    "timeWeek": 71,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "time": 91,
+    "timeDay": 52,
+    "timeWeek": 69,
+    "timeMonth": 91,
+    "timeYear": 91,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "test",
+    "url": "www.jcdjdf.tr",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "test",
+    "status": "down",
+    "uptime": "6.57%",
+    "uptimeDay": "6.57%",
+    "uptimeWeek": "6.57%",
+    "uptimeMonth": "6.57%",
+    "uptimeYear": "6.57%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-12-07": 0
+    }
   }
 ]
